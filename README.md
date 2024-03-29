@@ -1,4 +1,6 @@
-# 💫 About Me:
+
+
+<!--# 💫 About Me:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suyog+Magar!;" />
 </h1>
@@ -25,6 +27,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=suyogmgr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suyogmgr&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=suyogmgr&icon=2&color=6)](https://visitcount.itsvg.in) -->
